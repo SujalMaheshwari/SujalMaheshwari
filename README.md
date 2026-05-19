@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sujal Maheshwari</h1>
-<h3 align="center">Full Stack Developer | AIML Student | Unreal Engine Enthusiast</h3>
+<h3 align="center">AI Engineer | Full Stack Developer | Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;React+%7C+Node.js+%7C+Python;Unreal+Engine+Game+Developer;Aspiring+Data+Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Data+Science+Enthusiast;Building+Real-World+AI+Solutions" />
 </p>
 
 ---
@@ -10,11 +10,11 @@
 ## 🚀 About Me
 
 - 🎓 BTech AIML Student at **SIRT**
+- 🤖 AI Engineer focused on building real-world intelligent systems
+- 📊 Currently exploring **Data Science & Machine Learning**
 - 💻 Skilled in **React, Node.js, Python, Java, C/C++**
-- 🤖 Interested in **Artificial Intelligence & Data Analytics**
-- 🎮 Developed games using **Unreal Engine & Blender**
-- 🌱 Currently learning **Advanced Full Stack Development**
-- 🚀 Building innovative projects like **KARIN AI** & **KiranaOS**
+- 🧠 Interested in **AI, Full Stack Development & Analytics**
+- 🛠️ Experience with **Blender & Unreal Engine**
 
 ---
 
@@ -30,34 +30,31 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind,mongodb" />
 </p>
 
-### 🤖 AI / Tools
+### 🤖 AI / Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-### 🎮 Game Development
+### ⚙️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=blender,unreal" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,blender" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 KiranaOS
-Digital Kirana Store Platform helping local shops compete with modern delivery platforms.
-
 ### 🤖 KARIN AI
 AI-powered business solutions and analytics platform.
 
-### 🎮 Velocity Runner
-A 3D action game developed using Unreal Engine & Blender.
-
-🔗 Game Link:  
-https://gaurav-solanki.itch.io/velocityrunner
+### 🛒 KiranaOS
+Digital Kirana Store Platform helping local kirana shops manage inventory, orders, and analytics.
 
 ### 🏫 Smart Campus AI Kiosk
 AI-powered smart campus assistant system.
+
+### 📊 Data Science Projects
+Working on analytics, machine learning, and AI-based solutions.
 
 ---
 
@@ -87,9 +84,9 @@ AI-powered smart campus assistant system.
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Vision
 
-💡 I love building projects that combine  
-**AI + Full Stack + Real-World Utility + Game Development**
+Building impactful products by combining  
+**Artificial Intelligence + Full Stack Development + Data Science**
 
 ---
