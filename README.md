@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sujal Maheshwari</h1>
-<h3 align="center">AI Engineer | Full Stack Developer | Data Science Enthusiast</h3>
+<h3 align="center">AI & Full Stack Developer | Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Data+Science+Enthusiast;Building+Real-World+AI+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Data+Science+Enthusiast;Building+Real-World+AI+Solutions" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BTech AIML Student at **SIRT**
-- 🤖 AI Engineer focused on building real-world intelligent systems
+- 🎓 Pursuing BTech in Artificial Intelligence & Machine Learning – **SIRT**  
+  *(Expected Graduation: 2026)*
 - 📊 Currently exploring **Data Science & Machine Learning**
 - 💻 Skilled in **React, Node.js, Python, Java, C/C++**
 - 🧠 Interested in **AI, Full Stack Development & Analytics**
